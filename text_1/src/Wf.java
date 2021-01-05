@@ -2,6 +2,7 @@ public class Wf {
     public static void main(String[] args) {
         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaa");
         text();
+        System.out.println("--------------------------------------------------------------------------------");
     }
 
     public static void text(){
