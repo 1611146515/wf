@@ -11,6 +11,6 @@ public class Wf {
     }
 
     public static String getName(String name_1,String name_2){
-        return name_1 + name_2;
+        return name_1 +"--"+ name_2;
     }
 }
