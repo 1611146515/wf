@@ -6,5 +6,6 @@ public class Wf {
 
     public static void text(){
         System.out.println("text----------------");
+        System.out.println("11111111111111111111111111111111111111");
     }
 }
